@@ -8,3 +8,11 @@ basic_chatbot/resources/result.json
 basic_chatbot/.ipynb_checkpoints/
 
 basic_chatbot/pai_careca.xlsx
+
+*.xlsx
+
+*.csv
+
+*.json
+
+basic_chatbot/__pycache__/
